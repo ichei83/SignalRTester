@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRTester", "SignalRTester\SignalRTester.csproj", "{01A1B348-7F2C-4E91-886F-2DE2C4048ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfAppSignalRTester", "WpfAppSignalRTester\WpfAppSignalRTester.csproj", "{2D4AFFCE-F1E2-4CE0-A0D1-AD7AC6FFBBFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A1B348-7F2C-4E91-886F-2DE2C4048ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A1B348-7F2C-4E91-886F-2DE2C4048ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A1B348-7F2C-4E91-886F-2DE2C4048ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A1B348-7F2C-4E91-886F-2DE2C4048ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D4AFFCE-F1E2-4CE0-A0D1-AD7AC6FFBBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D4AFFCE-F1E2-4CE0-A0D1-AD7AC6FFBBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D4AFFCE-F1E2-4CE0-A0D1-AD7AC6FFBBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D4AFFCE-F1E2-4CE0-A0D1-AD7AC6FFBBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70B24EE7-163C-42DD-B269-8A3EBDC55BFA}
+	EndGlobalSection
+EndGlobal
